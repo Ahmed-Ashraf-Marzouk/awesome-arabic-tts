@@ -49,7 +49,18 @@ A curated list of Text-to-Speech (TTS) models, ranging from foundation models to
 * **Resemble AI:** Real-time generation via Chatterbox-Multilingual.
 
 ---
+## 📊 Benchmarks & Evaluation
 
+*Tools and leaderboards to compare model performance, naturalness, and diacritization accuracy.*
+
+* **[Arabic TTS Benchmark (Qualitative)](https://huggingface.co/spaces/silma-ai/arabic-tts-benchmark):** A leading qualitative benchmark by SILMA.AI for side-by-side auditory comparison of top Arabic speech models.
+* **[Open-source Arabic TTS Benchmark](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark):** A dedicated community leaderboard focused exclusively on evaluating and ranking open-source Arabic TTS weights.
+* **[ArFake Multi-Dialect Benchmark](https://huggingface.co/papers/2509.22808):** A 2025 research benchmark used to evaluate the realism of synthetic speech across various Arabic dialects (EG, MA, etc.) and its resistance to spoof detection.
+* **[ClArTTS Evaluation](https://www.isca-archive.org/interspeech_2023/kulkarni23_interspeech.pdf):** A standard for Classical Arabic (Fusha) evaluation using F0 RMSE (pitch accuracy) and MOS (Mean Opinion Score).
+
+---
+
+Would you like me to add a **"Best for..."** section to help users choose between these based on their benchmark scores?
 ## 💡 How to Contribute
 
 To add a model, simply append a row to the table above following this format:
