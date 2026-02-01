@@ -54,5 +54,3 @@ A curated list of Text-to-Speech (TTS) models, ranging from foundation models to
 
 To add a model, simply append a row to the table above following this format:
 `| **Model Name** | 🚩 [ISO Tag] | Dialect Description | [Link] |`
-
-Would you like me to help you find specific models for the **Maghreb (MA/DZ)** or **Levant (LB/SY)** tags to fill those pending slots?
